@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+
 body {
   height: 100%;
   width: 100%;
@@ -5,7 +7,7 @@ body {
   overflow: hidden;
   text-align: center;
   justify-content: center;
-  font-family: Arial, sans-serif; /* Default system font add kora holo */
+  font-family: Arial, sans-serif; /* Normal font set here */
 }
 
 .container {
@@ -258,5 +260,4 @@ body {
 @keyframes falling {
   20% {
     top: 335px;
-    background: #9d193b;
-    box-shadow: 0px
+    background
