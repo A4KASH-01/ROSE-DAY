@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: "Varela Round", "Quicksand", sans-serif;
+  font-family: Arial, sans-serif; /* Normal font set here */
   background: url(background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -15,7 +15,6 @@ body {
   width: 800px;
   height: 500px;
   background: rgba(255, 255, 255, 0.101);
-
   margin: 0 auto;
   border-radius: 2%;
   display: flex;
@@ -59,6 +58,7 @@ h1 {
   font-size: 4.5em;
   color: #fdfdfd;
   margin-bottom: 5px;
+  font-family: Arial, sans-serif; /* Normal font set here */
 }
 
 /*animation*/
@@ -88,7 +88,7 @@ h1 {
 footer {
   margin: 2em auto;
   text-align: center;
-  font-family: "Varela Round", "Quicksand", sans-serif;
+  font-family: Arial, sans-serif; /* Normal font set here */
   color: white;
 }
 
@@ -96,19 +96,22 @@ footer p {
   font-size: 1em;
   letter-spacing: 1px;
 }
+
 p span {
   font-size: 30px;
   font-weight: 600;
   text-shadow: 0 0 20px rgb(255, 255, 255);
   color: #800020;
 }
+
 p {
   font-size: 22px;
-  font-family: cursive;
+  font-family: Arial, sans-serif; /* Normal font set here */
   font-weight: 540;
 }
+
 .ullu {
   font-size: 25px;
-
   text-shadow: 0 0 20px rgb(255, 255, 255);
+  font-family: Arial, sans-serif; /* Normal font set here */
 }
